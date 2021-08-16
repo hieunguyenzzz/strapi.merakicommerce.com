@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_menus",
+  "info": {
+    "name": "Menu",
+    "icon": "address-book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "menu_item": {
+      "type": "component",
+      "repeatable": true,
+      "component": "sections.menu-item"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_footers",
+  "info": {
+    "name": "Footer",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "menu": {
+      "type": "component",
+      "repeatable": true,
+      "component": "sections.menu"
+    }
+  }
+}
